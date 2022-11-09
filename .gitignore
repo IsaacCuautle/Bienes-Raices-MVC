@@ -4,3 +4,4 @@ cypress/
 src/
 .env
 gulpfile.js
+cypress.json
